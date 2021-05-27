@@ -1,0 +1,70 @@
+
+
+.nater a{
+   text-decoration: none;
+   list-style: none;
+   margin: 50px 20px 10px 20px;
+   font-size: 20px;
+   padding-top: 50px;
+   color: white;
+   font-family: cursive;
+   
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin-top: 20px;
+    padding-bottom: 17px;
+    
+}
+.nater{
+   background-color: #34656d; 
+   width: 100%;
+   
+   
+   
+   
+}
+.sea{
+    position: absolute;
+    right: 40px;
+    top: 10px;
+    width: 200px;
+    height: 30px;
+    border-radius: 3px;
+}
+.uir img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    position: absolute;
+    left: 650px;
+    top: 20px;
+}
+.uir{
+    position: relative;
+}
+
+.main{
+    height: 320px;
+    background-color: #e4efe7}
+    
+    
+ .system{
+     position: relative;
+     left: 550px;
+     top: 230px;
+     font-size: 30px;
+     font-family: cursive;
+     color: #34656d;
+     
+ }   
+ .hello{
+    background-color: #e4efe7;
+     margin-left: 188px;
+     
+     margin-right: 188px;
+ }
+ 
+ 
+ 
